@@ -1,0 +1,2878 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "26df1c2f-565b-433d-8b7f-bccb3a41c95b",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 0,
+        "description": "Low-water bridge at Short Bend, just off Hwy. 19.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.435524, 37.744323] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e725e48a-cf30-4ae4-9b22-e537e2abe6c5",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 0.08,
+        "description": "Hwy. 19 Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.435284, 37.745703] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ef0e51cb-d87a-4a6e-99e1-c58f0a0010c4",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 0.9,
+        "description": "Short Bend Access. Good access for canoes/kayaks.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.428093, 37.751476] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ef0e0797-298d-4b26-bc53-675fc4440890",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 6.3,
+        "description": "Low-water bridge access on extension of Hwy. M.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.450234, 37.789832] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "562fe0c0-5b6a-4ed4-853a-a960cc8fb188",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 8.7,
+        "description": "Low-water bridge access at Cook Station.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.432894, 37.803033] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "60f5d204-ee5f-4426-81af-a45cf2826fe7",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 10.1,
+        "description": "Hwy. M Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.437487, 37.828953] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "721790bb-a5dd-4ab5-82fe-bf37df338479",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 13.4,
+        "description": "Low dam. Portage.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.438817, 37.8573] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4e720ae5-031b-4001-a1fb-675c0ce8d6ee",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 13.7,
+        "description": "Low-water bridge access at Wesco.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.433056, 37.8605] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0a64aa06-2b2e-43d7-81d9-f98f8f31b88f",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 16.7,
+        "description": "Low-water bridge access on road between Wesco and Hwy. U.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.453976, 37.891567] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8a269bef-8905-4f9f-b4ae-dae69a7f95ef",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 18.7,
+        "description": "Low-water bridge access. Hwy. U 1.3 miles north.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.480319, 37.894757] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c32ec33f-92f4-478a-81de-ccba232f8331",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 20.7,
+        "description": "Benton Creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.506018, 37.891499] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7d653421-ee2b-4b86-a393-cb3b6b7308c6",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 26.1,
+        "description": "Hwy. 8 Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.511717, 37.950535] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "98e10d26-7e90-48d2-89f0-ac0ac64eff0d",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 26.2,
+        "description": "Woodson K. Woods Wildlife Area and access on right. Reached from Hwy. 8. Usually the highest practical put-in. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.50859, 37.951017] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "00770b8f-ebd1-4ec1-aa3f-f83c7a233427",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 28.1,
+        "description": "Maramec Spring branch, on left, is 0.7 mile long and is managed for trout fishing. The spring, with average daily flows of more than 90 million gallons. The park in the area of the spring and branch is owned and maintained by The James Foundation.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.534374, 37.961717] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "579aefc1-eaaa-4ae8-b9be-4ebc78f8f2e9",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 28.8,
+        "description": "Dry Fork enters on left. Although this creek has a drainage as large as the upper Meramec, much of its water is thought to drain into the Maramec Spring system. Consequently, it is seldom floatable. Its gradient for the lower 23 miles from Hwy. F is 5.2.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.525291, 37.969561] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "36e2ea7e-4205-4057-bfde-d3fcf0977e06",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 32.8,
+        "description": "Richart Spring on left. Not open to public.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.487897, 37.98206] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "f5c1d75b-34e9-4f59-9b2c-bb04814d74f3",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 35.1,
+        "description": "Scotts Ford Access on northwest side of bridge. Gravel bar. No ramp. Private campground nearby.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.456696, 37.978016] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "403b2a93-ee68-4a39-997c-ba94112a76b1",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 41,
+        "description": "Indian Spring and private lodge on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.430419, 37.978622] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "78609db5-7364-4974-b09c-06cd4e736acc",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 42.3,
+        "description": "Riverview Access, off Hwy. 0. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.42543, 37.992367] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1589c611-054f-496c-8a3e-0745e0da0bbf",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 43.9,
+        "description": "Pine Branch on left. McIntosh Spring is one of the springs feeding this branch. It has a flow of under a million gallons but once operated a water wheel.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.404096, 38.011627] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "57a4d53a-e671-451d-ab9d-d30415139a5a",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 44.4,
+        "description": "Private cottages on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.393069, 38.00615] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0a95cbe1-d1a9-4366-a4bd-f775657409a0",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 46.8,
+        "description": "Fishing Spring Road access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.384511, 37.989536] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "aa219232-834b-4712-b6c2-911c0b11c304",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 47,
+        "description": "Many private campgrounds in this area.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.37993, 37.9897] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e4acf877-f261-4ad1-946b-d1afd1fde6cf",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 47.9,
+        "description": "Hwy. 19 Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.376233, 37.988998] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "256c34f0-3bf1-4792-b96a-94bdf8e9cc7f",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 50,
+        "description": "Bird's Nest Access (Crawford County) on right. St. Louis-San Francisco R.R. and county bridges. Good rift in river. City park and private campground. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.360596, 37.997314] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "425a580d-7a50-4824-aa01-ad1a712bc089",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 50.5,
+        "description": "Whittenburg Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.351866, 37.998815] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3b4d3c33-b55f-4f5b-8287-1996079d3763",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 55.3,
+        "description": "Private campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.321256, 38.014962] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "86ed429a-225a-4e10-be73-5ad61ed47094",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 58.3,
+        "description": "Lick Creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.304438, 38.041082] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "056fbd2a-acd2-46bd-9c9b-aeb6f39750eb",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 59.1,
+        "description": "Saranac Spring branch on left and private campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.299602, 38.045594] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "33954dbd-119b-41dc-a38a-58da26bd9920",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 62,
+        "description": "Spring branch on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.289477, 38.042054] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3e797031-0760-4597-9d99-6156f49e5f48",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 65.9,
+        "description": "Huzzah Creek enters on right. Section just above Huzzah Creek often has log obstructions. The Huzzah and its companion creek, the Courtois, are floatable and are described separately. Huzzah Conservation Area extends along right bank for next 1.5 miles.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.227743, 38.031716] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "232eea7c-2cad-4d2a-9496-4c0401cb4430",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 66.2,
+        "description": "Huzzah Conservation Area and access, off Hwy. E.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.220856, 38.035637] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bd4b8b26-efb1-4e3f-965e-6c6a8eeab645",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 68.4,
+        "description": "Onondaga State Park, Hwy. H bridge. public-access upstream from bridge on west. Onondaga Cave, about one mile up road to left, is one of the outstanding commercial caves in the state. East side of low-water bridge private with camping.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.223635, 38.058284] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e99f0a1b-761d-405b-acf6-36623a364a01",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 70.4,
+        "description": "Opossum Hollow Creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.195871, 38.06145] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "06d4d5df-e2ed-4499-9788-ba8682cc783b",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 73.7,
+        "description": "Campbell Bridge Access on Hwy. N. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.149979, 38.082977] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "14f2e307-f4e8-4752-9951-9286217dbede",
+        "riverId": "meramec-river",
+        "type": "private-access",
+        "mile": 78,
+        "description": "private-access canoe rental and campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.156682, 38.111244] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "03aaf6da-3ecd-4a56-95ad-e11cc0d24d2c",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 78.6,
+        "description": "Blue Springs Creek Conservation Area and access on Thickety Ford Road. Low-water bridge removed, but pilings still present. No ramp. Must carry canoe/kayak to river.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.156158, 38.123781] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5ee93d8a-3969-4476-8e13-c4822020384b",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 83.2,
+        "description": "Sappington Bridge Access. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.109378, 38.158534] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "44fd8c76-09a8-4f0a-92bb-d6700fcc859d",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 85.3,
+        "description": "Hamilton Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.095585, 38.179713] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1cd8ddff-572d-4d2d-b3a1-7ef7665d4819",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 85.8,
+        "description": "Green Cave and picnic shelter on right in Meramec State Park.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.092094, 38.180546] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "548d7b44-7847-4bb9-b083-7fa579904e08",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 86.2,
+        "description": "Stater Creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.097253, 38.186909] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "68b54c59-d094-4c34-9be8-15cd0ab78b21",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 88,
+        "description": "Meramec State Park boat ramp from Hwy. 185 at state park entrance.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.098656, 38.203314] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "58bad524-29d8-45ef-9afe-6f27faad1314",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 88.2,
+        "description": "State park picnic ground along left bank, from bridge to Camper's Spring. Stores for supplies 2.5 miles up road on left or in Sullivan 1.5 miles beyond.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.09285, 38.210313] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1bb27eb5-8f01-43ad-b057-7f67c9c971d9",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 88.5,
+        "description": "Camper's Spring on left at base of bluff.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.088979, 38.213615] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "052812ce-dff0-43a5-ab61-7b0c3f6d651f",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 89.5,
+        "description": "Panther Cave, in bluff on right. The \"lower\" state park campground extends along the left bank in this area.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.077488, 38.218239] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "a5ec7e37-71a9-4584-8e7d-00e6d596e14f",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 90,
+        "description": "Boat ramp in Meramec State Park on left. Watch for rock dike on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.079167, 38.222045] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "858c199d-d0b3-4daa-9f4b-3a2cd626c2e4",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 90.2,
+        "description": "Fisher Cave 0.2 mile from river on left is operated as a park concession.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.081214, 38.226986] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3d525cd7-bc3e-416f-b4b9-a21383cb25f2",
+        "riverId": "meramec-river",
+        "type": "private-access",
+        "mile": 91,
+        "description": "Silver Hollow Creek on right. 92.0 Private canoe park on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.067106, 38.234888] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "f87b60d1-b569-47eb-b7ac-80a8151d9b02",
+        "riverId": "meramec-river",
+        "type": "private-access",
+        "mile": 92.1,
+        "description": "Private concrete boat ramp on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.067242, 38.243586] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9f7e50a2-99d4-4533-8262-338a259aa229",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 92.3,
+        "description": "Private pavilion on left. Bluff on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.071231, 38.243901] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "766a12d4-fdfd-459d-bdd3-603b75186c48",
+        "riverId": "meramec-river",
+        "type": "private-access",
+        "mile": 94.3,
+        "description": "Meramec Caverns and LaJolla Springs. Access. This cave is one of the commercial ones in the state. The management provides a park and picnic area for the public along the left bank, below the cave.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.091137, 38.241818] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "855c1fe8-b37c-4461-92a6-0a939ef09f9b",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 95.4,
+        "description": "Sand Ford Access off Hwy. W CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.07995, 38.252603] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9e4ae7e2-5b2f-4ffb-bfef-06ab4524e4f0",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 98,
+        "description": "Twin Springs and private club on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.065655, 38.273143] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0896ca19-432e-414d-86c7-70ee0fa24488",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 98.7,
+        "description": "Roaring Spring, on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.070324, 38.276986] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c1c796c0-9dd1-4b7e-a3fa-b73f9cc7ede9",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 101.7,
+        "description": "Pickle Ford (Huff Ford). Poor access on left bank.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.027783, 38.256794] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "aa8624e5-484a-4531-bfaa-081afd21ba12",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 104.4,
+        "description": "Plum Ford.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.997923, 38.277959] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "864a48a2-8fcb-41b7-8cda-2abc43abff40",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 112,
+        "description": "Hwy. K Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.944647, 38.276647] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "b09a71f3-e311-4b6c-8755-fc025574be8a",
+        "riverId": "meramec-river",
+        "type": "landmark",
+        "mile": 112.2,
+        "description": "Indian Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.939623, 38.274845] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "287c36c1-76cb-4237-99d0-d33199092e97",
+        "riverId": "meramec-river",
+        "type": "private-access",
+        "mile": 112.3,
+        "description": "private-access at beach on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.937551, 38.27689] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "43daeb93-22f1-4ade-abdf-2a6b5303a1a0",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 112.6,
+        "description": "Red Horse Access on right, off Hwy. K, Old Hwy K and Project Road. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.932283, 38.282703] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "07376034-e385-418f-9216-6862a54a93c7",
+        "riverId": "meramec-river",
+        "type": "private-access",
+        "mile": 117.3,
+        "description": "Hwy. 30-47 Bridge. private-access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.921864, 38.322606] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "28dbefa5-9a26-4fc4-a287-208103c72316",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 127.2,
+        "description": "River 'Round Conservation Area and access, off TT to Mill Hill to Old Cove Road. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.87265, 38.356103] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "f5d6b62b-7f18-43bd-8416-de4f23079254",
+        "riverId": "meramec-river",
+        "type": "private-access",
+        "mile": 131.4,
+        "description": "Hillcrest Park private-access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.88635, 38.383018] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "76ed32d8-0d06-4f66-99e8-a634c4328d2d",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 132.4,
+        "description": "St. Louis-San Francisco R.R. Bridge. Access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.888244, 38.394436] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5c5e4c78-22f3-4ed4-8796-752308d562b0",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 132.8,
+        "description": "Chouteau Claim Access at junction with Bourbeuse River. County road and bridge 0.4 mile up Bourbeuse. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.889456, 38.399186] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "18140cae-c3a4-47de-a71c-66a2ddab48d2",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 136,
+        "description": "Robertsville State Park access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.818342, 38.4363] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "af9c0013-2564-4e38-9757-e25a40290060",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 142.7,
+        "description": "Catawissa Conservation Area and access on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.764415, 38.450625] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0a5ad6c6-410d-462e-ae01-117b27b22e41",
+        "riverId": "meramec-river",
+        "type": "private-access",
+        "mile": 145.3,
+        "description": "Hwy. F Bridge. private-access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.735689, 38.467181] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "847116ec-f83d-4183-8f9c-dc47a9f9ec1a",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 147.3,
+        "description": "Pacific Palisades Conservation Area and access on right, on English Road off Hwy. F. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.715381, 38.477008] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2fdac6c6-112f-453a-bd55-bbc73201a0e4",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 154.2,
+        "description": "Allenton Access on left, off 1-44, at Allenton-Six Flags Road, go east on Main Street, south on Brown Road to Huntersford. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.660083, 38.474603] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ac54ede-3639-4bf8-998b-cab2d727e722",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 161,
+        "description": "Hwy. 66 bridges. Times Beach Access on left, at Lewis Road exit off 1-44. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.591453, 38.50204] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8da3bbe0-7a97-4016-9553-183299a11836",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 169,
+        "description": "Castlewood State Park off Kiefer Creek Road.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.532417, 38.544767] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8b4ca392-9446-412c-9047-a4f14eef7aa7",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 172.5,
+        "description": "Valley Park City Access (Valley Park). CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.48437, 38.546228] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "befea5a6-e19a-41a6-b5cb-55b3060dc876",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 173.5,
+        "description": "Green Tree Park Access (Kirkwood), off Marshall Road. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.447819, 38.558211] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8da7b588-ebf4-4741-b562-2288a12366f5",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 176,
+        "description": "Ackerman Access at 1-44 Bridge. No ramp.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.434115, 38.5438] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ae6987c3-bba1-4b5d-ba59-26e1c46a8873",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 180.4,
+        "description": "Winter County Park with ramps on right, off Corisande Beach Road.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.421564, 38.503304] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12e94af6-6784-4f7a-bf52-9a1400e17a43",
+        "riverId": "meramec-river",
+        "type": "public-access",
+        "mile": 192,
+        "description": "Flamm City Access on right below H 231 Bridge. Ramp. Last access above Mississippi River. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.347328, 38.417272] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b0c74b4-5e88-46fb-aa40-cb056857d6a2",
+        "riverId": "courtois-creek",
+        "type": "public-access",
+        "mile": 0,
+        "description": "Brazil low-water bridge on road between Hwy. Y and Palmer. Better put-in below Hazel Creek.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.056274, 37.845004] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "50dd5825-89f8-472e-8daa-0253a6c47c55",
+        "riverId": "courtois-creek",
+        "type": "landmark",
+        "mile": 2.4,
+        "description": "Hazel Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.058727, 37.870875] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2fc147ce-2f42-48a2-be3d-3ffb1a8f9bb7",
+        "riverId": "courtois-creek",
+        "type": "public-access",
+        "mile": 3,
+        "description": "Hazel Creek Recreation Area and access in Mark Twain National Forest.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.056242, 37.875751] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d55e74ec-549f-486a-b912-0f752bdb2a2d",
+        "riverId": "courtois-creek",
+        "type": "private-access",
+        "mile": 4.5,
+        "description": "County Road Bridge. Private access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.080664, 37.8923] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e0fbfdd3-6aa6-4ce6-a144-5cbd6843e5e8",
+        "riverId": "courtois-creek",
+        "type": "landmark",
+        "mile": 6.7,
+        "description": "Lost Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.099398, 37.916087] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "71a77dc2-8bcb-4878-856a-7a873b8da0ba",
+        "riverId": "courtois-creek",
+        "type": "public-access",
+        "mile": 6.9,
+        "description": "Hwy. 8 Bridge. Access difficult at highway.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.101107, 37.918687] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "03d3a7e6-4a78-429c-8240-4eaa22ecedcf",
+        "riverId": "courtois-creek",
+        "type": "private-access",
+        "mile": 11.5,
+        "description": "Low-water bridge. Private camping and parking.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.137012, 37.958478] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4a8ed5cb-29f8-407c-a396-8312caa7ed86",
+        "riverId": "courtois-creek",
+        "type": "landmark",
+        "mile": 12.9,
+        "description": "Rocky rapids, which resembles an old mill race, provides good run against right bank. Watch for down trees!",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.151511, 37.967426] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3cce2246-0d6d-4ec4-9ee3-0e66fe95c287",
+        "riverId": "courtois-creek",
+        "type": "private-access",
+        "mile": 15.4,
+        "description": "Butts low-water bridge. Good access, campsite or lunch spot. Henpeck Hollow Creek on right. Private campground and access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.163081, 37.99478] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "f4a2ebcc-12f1-4af2-86ad-844d61dcda6f",
+        "riverId": "courtois-creek",
+        "type": "private-access",
+        "mile": 15.6,
+        "description": "Private campground and access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.16805, 37.994405] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1555fa81-2caf-4a2a-a75f-bd2406560419",
+        "riverId": "courtois-creek",
+        "type": "private-access",
+        "mile": 16.3,
+        "description": "Low-water bridge on private road.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.179019, 37.99327] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "eabd7085-04d8-45ed-8d4e-d3039d1055e7",
+        "riverId": "courtois-creek",
+        "type": "landmark",
+        "mile": 17.8,
+        "description": "Take left channel. This is beginning of The Narrows, a narrow, fairly fast section of the creek. Watch for logs and down trees.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.191469, 38.007293] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "484fd928-4145-4149-afd1-d2ea68300910",
+        "riverId": "courtois-creek",
+        "type": "landmark",
+        "mile": 18.2,
+        "description": "Cave on left. Good shelter though short.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.19569, 38.007586] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9974f7b7-7df2-48ee-ad45-5bb287372962",
+        "riverId": "courtois-creek",
+        "type": "landmark",
+        "mile": 18.4,
+        "description": "End of Narrows.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.196957, 38.008729] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7698b16b-ec61-43a0-8686-253608943d82",
+        "riverId": "courtois-creek",
+        "type": "landmark",
+        "mile": 19.4,
+        "description": "Doss Branch on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.188229, 38.019402] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5ee921cd-8307-4d40-8178-a1ad2f2917d0",
+        "riverId": "courtois-creek",
+        "type": "public-access",
+        "mile": 20.4,
+        "description": "Huzzah Conservation Area and access, on right, at end of campground.",
+        "hasRamp": false,
+        "campingAllowed": true
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.208927, 38.026745] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d7d1429e-d9ff-4550-a83d-eb6ec706dbe1",
+        "riverId": "courtois-creek",
+        "type": "landmark",
+        "mile": 21.2,
+        "description": "Junction with Huzzah Creek. Next take-out 0.3 mile downstream at low-water bridge off Hwy. E.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.209813, 38.026077] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3a736699-179a-46c6-bb83-4b2b355be7e3",
+        "riverId": "huzzah-creek",
+        "type": "public-access",
+        "mile": 0,
+        "description": "Dillard access. Only floatable in good water.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.203017, 37.738243] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "b39c4ea8-81dc-476c-a556-12393084bbcd",
+        "riverId": "huzzah-creek",
+        "type": "private-access",
+        "mile": 6,
+        "description": "Hwy. V Bridge. Private campground and access. 8.3 Red Bluff on right. Access on left. 8.8 Low-water bridge access. 15.3 Shoal Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.171284, 37.799766] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d5c38722-8f80-498e-8fab-94f7cf6eb0a9",
+        "riverId": "huzzah-creek",
+        "type": "public-access",
+        "mile": 8.3,
+        "description": "Red Bluff on right. Access on left",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.168286, 37.815777] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "255f2377-a6d4-477c-a53a-2eb4606efa66",
+        "riverId": "huzzah-creek",
+        "type": "public-access",
+        "mile": 8.8,
+        "description": "Low-water bridge access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.179706, 37.82119] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e7ee9e45-07c3-4e48-a04e-bb9273cad4db",
+        "riverId": "huzzah-creek",
+        "type": "landmark",
+        "mile": 15.3,
+        "description": "Shoal Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.16, 37.894497] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2281e0fe-829c-4c9a-b0db-7dc5cec654d4",
+        "riverId": "huzzah-creek",
+        "type": "public-access",
+        "mile": 16.3,
+        "description": "Access at low-water bridge, off Hwy. Z. 17.3 Spring branch on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.163, 37.906793] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "316adf33-47d8-4ef8-ac49-8616e2e76a08",
+        "riverId": "huzzah-creek",
+        "type": "landmark",
+        "mile": 17.3,
+        "description": "Spring branch on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.167572, 37.913843] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ef146659-5c3c-468b-86bd-17d6f8332188",
+        "riverId": "huzzah-creek",
+        "type": "private-access",
+        "mile": 17.5,
+        "description": "Private access and campground just across low-water bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.16915, 37.920317] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "87464657-3382-4b49-8ddd-0fb86305b5b5",
+        "riverId": "huzzah-creek",
+        "type": "public-access",
+        "mile": 23,
+        "description": "Dry Creek on left just above Hwy. 8 Bridge. Dry Creek includes water from James Spring, which has a flow of more than a million gallons per day. Access at bridge. Private campground and access on right, before Hwy. 8 Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.205104, 37.974193] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "895a3fe9-babc-46f4-a340-961697b4bac3",
+        "riverId": "huzzah-creek",
+        "type": "landmark",
+        "mile": 28.1,
+        "description": "Junction with Courtois Creek.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.211748, 38.026164] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "081988d2-e47f-4cdb-a9ef-8a987e16efd9",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 0,
+        "description": "Baptist Camp Access on county road of Hwy. YY",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.661169, 37.450611] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3a6deadd-2f5b-4271-a721-c7903386214d",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 3.3,
+        "description": "Ashley Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.649702, 37.429035] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c25418d2-f56b-4e33-9933-a879fd323bed",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 6.5,
+        "description": "Parker Hollow on left, fed by Schafer Spring 1.2 miles upstream.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.623278, 37.437478] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0ee784ed-ed28-4500-b173-c4826f14a9cf",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 8,
+        "description": "Cedargrove Access. Low-water bridge and campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.60858, 37.422253] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bac30e3b-dce5-415c-88db-6c59ff223db7",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 8.9,
+        "description": "Big Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.606311, 37.414084] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "b0e80d12-9285-4ecd-ba89-ea91fef891dc",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 11.6,
+        "description": "Medlock Spring on right. 12.4 Welch Landing Access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.589328, 37.396269] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "97049921-f028-43a0-9b20-2230cd06bb3f",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 12.4,
+        "description": "Welch Landing Access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.568707, 37.383174] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "612e021d-e051-4dc8-8a8c-3a5ab52ce5b4",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 12.7,
+        "description": "Welch Spring, sixth largest in state, on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.575078, 37.395966] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "712ea9ba-8512-41dc-b8c7-4d7a1c61691f",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 15.7,
+        "description": "Akers Ferry Access on Hwy. K. Campground and store.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.551894, 37.375725] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "20364e47-1aad-4bc2-985a-ffb0dfe6b901",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 23.2,
+        "description": "Rock House Cave on right. A meander of a cave, cut off by the deepening river valley, it is now more like a natural bridge than a cave and makes a good shelter.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.486318, 37.354063] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "041b8fd5-cc52-4bbe-b228-95ebdb7bc095",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 25.2,
+        "description": "Pulltite Access. Campground and store.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.476212, 37.334384] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "65042f16-2fb6-4844-a5ed-14b2fdfee132",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 26,
+        "description": "Pulltite Spring and branch on right. Just below on the same side of the river, are several other minor but interesting springs, one of which is the \"\"\"\"Fire Hydrant Spring\"\"\"\" gushing from a small cave in the bluff.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.487803, 37.334138] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "269e3922-017b-486c-b494-00e961e75939",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 27,
+        "description": "Boyds Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.484497, 37.321826] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "79f3872c-1914-4277-9c68-db4008010731",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 30.2,
+        "description": "Jerry J. Presley Conservation Education Center on left, formerly the Alton Club. No access or camping.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.45237, 37.317529] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "19d69fcf-1d07-4359-9ce2-6c4d42a5365f",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 32.7,
+        "description": "Sinkin Creek enters on left. By putting in at The Sinks, where the creek takes a short-cut through a hill via a cave, 6.5 miles of the creek can be floated in good water. Gradient is 10 feet per mile.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.415536, 37.302335] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "122ddcf1-4455-40bc-a384-c2e4dd02b599",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 34.2,
+        "description": "Round Spring access, campground, spring and cavern.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.405274, 37.283154] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10dbfc54-3ea8-47ba-ae53-dcfa45a868c9",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 42.5,
+        "description": "Big Creek enters on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.326252, 37.248247] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cc82f33b-baf9-4a4b-8179-2ebc11ebc499",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 44.7,
+        "description": "Bee Bluff on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.295693, 37.252604] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dca600b8-ce9e-45dd-822e-74dcf422a53e",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 46.6,
+        "description": "Jerktail Landing on right, on county road off H 19. Access and campsite.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.308008, 37.230765] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "53949052-d8bc-4d15-a46d-e9641b2ee2b9",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 51.1,
+        "description": "Ebb and Flow Spring, reached by walking 0.25 mile up creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.280434, 37.193811] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "191cc654-d33f-4f41-877d-5e3cd5f5d3bf",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 51.5,
+        "description": "Jacks Fork River enters on right. Two Rivers Access (Ozark National Scenic Riverways).",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.277572, 37.19015] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1e1be09b-5be1-46e4-838c-298876d9f36a",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 52.3,
+        "description": "Old ferry site, access and campground. 56.2 Blair Creek on left. 58.4 Hwy. 106 Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.268499, 37.189603] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4bb314c0-005d-4e13-9681-5f72c1a3faa9",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 58.7,
+        "description": "Powder Mill, an old ferry site, with access and campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.175749, 37.181528] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "f2f2a7d0-23f2-4be7-be8a-1e1773390f8c",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 60,
+        "description": "Blue Spring, ninth largest in the state, has deepest blue color. Reached by a 0.25 mile walk up its branch on the left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.165551, 37.1656] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e09b6691-f130-4cd9-81d9-24c5b43efd38",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 63.8,
+        "description": "Roberts Field access and campground. Rocky Creek enters on right. The Falls of Rocky Creek, 3 miles southwest of this point, are a scenic attraction of the area.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.172759, 37.127399] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3ee8acf0-a28e-4742-9c15-47a034e297a8",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 66.1,
+        "description": "Spring on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.13625, 37.137741] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "727ec788-14a7-43a4-a4b4-a8744763261c",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 66.6,
+        "description": "Carr Creek and Cardareva Mountain on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.1296, 37.134393] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9db1276f-5d48-436f-9956-11bf5d71cf3c",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 69,
+        "description": "Log Yard on left. Access and campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.131194, 37.11474] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "a8b7354e-f0da-4434-bb90-54a1d665a2dc",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 69.8,
+        "description": "Beal Landing on left. Access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.111504, 37.105879] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ceecb0d0-4733-414d-a490-47b5ae612083",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 72.5,
+        "description": "Paint Rock Bluff access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.073383, 37.129101] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "49157d19-3bb5-475d-9f7b-6e211a83a2c5",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 77.7,
+        "description": "Waymeyer Access on right at mouth of Chilton Creek, on County Road M-151 off Hwy. M.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.049391, 37.059053] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "264341bb-400d-40e6-8a3f-a77270a38394",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 81.5,
+        "description": "Pine Valley Creek, also called Henpeck Creek, on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.039595, 37.027419] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7ea00f03-58e7-4373-8a3b-30c51d8b3f58",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 84.3,
+        "description": "Watercress Spring Recreation Area. Forest Service and campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.020318, 37.000218] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9792e5af-a952-4d3e-aa7f-12838b74099d",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 84.9,
+        "description": "Van Buren Riverfront Park Access (Van Buren) and H 60 Bridge. CBR",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.013376, 36.991813] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2c95ae05-3cb3-48aa-b9e4-30b6aab01fb1",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 89.2,
+        "description": "Big Spring. Access and campground. One of the largest springs in the world.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.989393, 36.947773] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1e7ac70d-0806-469e-a95d-c58fce06d20d",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 93.5,
+        "description": "Clubhouse Landing. Access and campground, on County Road 60-221 off Hwy. 60.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.905789, 36.928902] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0048571f-11b2-41a3-b906-fcfc9c3298ac",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 97.8,
+        "description": "Hickory Landing. Access from Hwy. E at Hunter. Cave Spring-Jordan Spring Branch on left. Jordon Spring, 0.5 mile and Cave Spring, 1 mile up branch.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.913807, 36.885156] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4c0e1dce-5ee0-4275-a944-fbd763a346e8",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 98,
+        "description": "Catarac Landing on right. Access on County Road Z-217, off Hwy. Z and H 103.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.92103, 36.881575] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d91b466c-44ef-49f0-8967-fcfc1d331f62",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 100.3,
+        "description": "Panther Spring on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.935688, 36.866022] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "773a62e6-48ae-4197-8487-f2d5f4e9512a",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 103.2,
+        "description": "Bog Hollow. Phillips Bay and Spring on right. Spring about 0.25 mile from river.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.942922, 36.832243] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cf48198f-abc3-4657-bf57-360fcd01eaee",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 104.2,
+        "description": "Gooseneck campground on right. Access on Farm Road 3142-County Road C-10, off Hwy. C.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.947024, 36.818359] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c15ff01b-1226-486d-a307-27f04df0d6f6",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 105.8,
+        "description": "Forest Service campground on left. Bagamaw Bay on right. Limited access road.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.956933, 36.800713] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2afaf692-01ab-409a-b1df-3cd7ed4602fe",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 107.7,
+        "description": "Big Barren Creek on right. Twin Springs 0.75 mile up creek.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.944445, 36.780189] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6a662fe6-22f8-4397-af92-573507cfcc59",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 110.5,
+        "description": "Cedar Creek on left. Forest Service campsite in this area.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.927513, 36.757673] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d1a0a664-3ef6-4291-982c-fd405f5ba4b6",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 112.8,
+        "description": "Buffalo Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.919536, 36.717281] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c77dc92d-7c61-4002-89f4-92592efbc4b2",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 113,
+        "description": "Compton Camp. Forest Service campsite, on right. Deer Leap Recreation Area. Forest Service access on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.916738, 36.714456] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "43dba71d-2524-4345-8103-12d10f6b7b1f",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 118.8,
+        "description": "Deer Leap Recreation Area. Forest Service access on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.879006, 36.669724] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9682196b-e5e7-4061-82e3-a491451771c1",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 119.3,
+        "description": "Float Camp Recreation Area. Forest Service access on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.874206, 36.665903] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "40db68a9-8298-4da4-8b05-6cc2cb65046f",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 120.3,
+        "description": "Dun Roven unimproved access on right. 123.8 Hwy. 160 Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.856404, 36.65261] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4e963124-fe4c-4014-b7b4-62dc31c68d7a",
+        "riverId": "current-river",
+        "type": "public-access",
+        "mile": 124,
+        "description": "T.L. Wright Memorial Access (Doniphan) on right. CBR Private campground nearby. Stores, meals, lodging in Doniphan.",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.833061, 36.60887] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "24f7557a-c787-423f-94ff-e3e98227ee11",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 129.8,
+        "description": "Big Island.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.842229, 36.554983] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c469fc82-0f72-4b54-ae64-1d2002d056d1",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 135,
+        "description": "Goose Lake, a lake-like pool of the river.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.807462, 36.523609] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fd690117-6d4f-44ac-ac14-98525e5364fc",
+        "riverId": "current-river",
+        "type": "landmark",
+        "mile": 136.3,
+        "description": "Missouri-Arkansas state line.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.801601, 36.498658] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6cae6562-e2c8-40e9-9f3b-344d8f218404",
+        "riverId": "current-river",
+        "type": "private-access",
+        "mile": 138,
+        "description": "Current View. Private access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.783268, 36.498779] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "f25e7725-67a0-4b7d-a37d-ad48b8caee78",
+        "riverId": "jacks-fork",
+        "type": "public-access",
+        "mile": 0,
+        "description": "South Prong Access at Hwy. Y Bridge. Beautiful section, but not recommended during low water. Gravel bar access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.732455, 37.076858] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "b7e429d1-f79b-4fc3-bb54-1d113cac8b15",
+        "riverId": "jacks-fork",
+        "type": "public-access",
+        "mile": 6.8,
+        "description": "H . 17 Bridge at Buck Hollow. Access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.668285, 37.056192] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "288acec1-fa02-402e-9ca1-43918a75a1ea",
+        "riverId": "jacks-fork",
+        "type": "public-access",
+        "mile": 9.2,
+        "description": "Bluff View Access on left, off Hwy O.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.638654, 37.05281] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ac6764cd-d18b-4f11-a360-8dc0bee4ff29",
+        "riverId": "jacks-fork",
+        "type": "public-access",
+        "mile": 9.6,
+        "description": "Blue Spring Access on left, off Hwy. 00. Blue Spring comes from cave on left nearly hidden from river by boulders. Narrow run just below spring may be difficult.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.632321, 37.051946] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "925230c8-3906-4ff8-ad49-ebe6c77d2caf",
+        "riverId": "jacks-fork",
+        "type": "landmark",
+        "mile": 12.6,
+        "description": "Jam Up Bluff and Cave. River entrance of cave is one of most spectacular cave entrances in state.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.5965, 37.044514] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc8f7638-ae12-49cd-b296-ac1a30eefda3",
+        "riverId": "jacks-fork",
+        "type": "landmark",
+        "mile": 15.9,
+        "description": "Ebb and Flow Spring on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.565779, 37.059932] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1fbd4551-8a0a-427d-b6a2-80c954728d53",
+        "riverId": "jacks-fork",
+        "type": "public-access",
+        "mile": 16.2,
+        "description": "Rymers Access and campground on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.56257, 37.061109] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11c97512-0caf-4c20-bc28-ae0e09cd8510",
+        "riverId": "jacks-fork",
+        "type": "landmark",
+        "mile": 17.1,
+        "description": "Bunker Hill Resort, on left, privately owned by Missouri State Teachers Association. No access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.553621, 37.068654] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "a5670bbb-27f2-45f0-abe4-1230f24edf66",
+        "riverId": "jacks-fork",
+        "type": "landmark",
+        "mile": 22.2,
+        "description": "Leatherwood Creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.522983, 37.103337] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e90e6073-3f58-4468-8d1f-b4834631dbd6",
+        "riverId": "jacks-fork",
+        "type": "public-access",
+        "mile": 25.2,
+        "description": "Bay Creek on left. Access and campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.503974, 37.121222] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0a5586a1-0bae-4aaf-92ff-35029ebe5340",
+        "riverId": "jacks-fork",
+        "type": "public-access",
+        "mile": 31,
+        "description": "Alley Spring, 10th largest spring in state. Access, old mill, campground and store.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.435914, 37.150299] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cb66f45f-4375-44f1-a694-b4f11f24a0f8",
+        "riverId": "jacks-fork",
+        "type": "landmark",
+        "mile": 32.3,
+        "description": "Horse Hollow on left. The old Salem, Winona and Southern RR used to run up this hollow and continue up Sinking Branch after following the Jacks Fork from Mahan's Creek.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.42431, 37.161604] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c703e1e8-b5b6-43b9-a224-937bb8535396",
+        "riverId": "jacks-fork",
+        "type": "landmark",
+        "mile": 35.3,
+        "description": "Mahan's Creek on right. Site of old RR river crossing just above mouth of creek.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.375751, 37.152951] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8c237e50-d241-4727-a9b0-68a3678e242c",
+        "riverId": "jacks-fork",
+        "type": "public-access",
+        "mile": 37.3,
+        "description": "Buttin Rock Access on right side, at Hwy. 19 Bridge. Stores, cafes and lodging in Eminence. Gravel ramp.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.355955, 37.154421] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2f15e5f0-fdf1-4f1e-a756-e09778d4932a",
+        "riverId": "jacks-fork",
+        "type": "public-access",
+        "mile": 41.9,
+        "description": "Shawnee Creek on right. Access and campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.30086, 37.173066] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6560124d-6eab-4d6b-a98a-62ec74fe8307",
+        "riverId": "jacks-fork",
+        "type": "landmark",
+        "mile": 42.3,
+        "description": "Little Shawnee Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.295149, 37.172417] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "b7f34519-eb63-4f15-ac75-a44f9586dff6",
+        "riverId": "jacks-fork",
+        "type": "landmark",
+        "mile": 44.6,
+        "description": "Confluence with Current River. Best take-out .75 mile downstream at ferry landing.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-91.277809, 37.190198] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "b99e5716-e473-45a4-ac0d-baffb1388525",
+        "riverId": "big-river",
+        "type": "private-access",
+        "mile": 0,
+        "description": "Cherokee Landing, private access on county road running north from Bonne Terre.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.552432, 37.953081] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d4a4fc18-34bd-4c1e-be9e-8f5c6b33d121",
+        "riverId": "big-river",
+        "type": "public-access",
+        "mile": 1.8,
+        "description": "Hwy. E Bridge.  Access difficult due to steep slope.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.573908, 37.965075] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3c2bb86d-b893-44a2-942b-b6431280143f",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 6.9,
+        "description": "Three Hill Creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.606068, 37.985852] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "85506590-f7db-40ae-a653-f4351803d752",
+        "riverId": "big-river",
+        "type": "private-access",
+        "mile": 9.1,
+        "description": "Coles Landing.  Ford, reached from north side.  Private access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.622685, 38.006986] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3651826b-0d07-4774-b2c4-ae13accd34bd",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 10.6,
+        "description": "Spring on right about 20 feet from river and 2 feet above river level.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.612298, 38.015254] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "695d43c3-ff4a-418a-88a3-6e8ccd6d8682",
+        "riverId": "big-river",
+        "type": "private-access",
+        "mile": 12,
+        "description": "Private access on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.617395, 38.031753] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "221ca8d7-c3b7-4f27-a41e-16278fa88b96",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 12.2,
+        "description": "Mill Creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.619511, 38.036149] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "59959b9a-9a9a-45c9-827b-0a62991721fc",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 12.8,
+        "description": "Blackwell Bridge.  No public access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.618602, 38.041754] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "deead182-8746-4b90-a215-856859cb9214",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 15.6,
+        "description": "Missouri Pacific R.R. Bridge",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.624819, 38.074969] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "75508762-622b-4455-903b-e9227b8923dd",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 15.7,
+        "description": "Vineland Road Bridge (bridge out).  No public access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.628323, 38.075036] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5118e25b-90f7-4046-835b-b864a2ff32ff",
+        "riverId": "big-river",
+        "type": "public-access",
+        "mile": 16.9,
+        "description": "Hwy. 21 Bridge.  Private access on east bank.  Difficult access on west bank.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.659592, 38.085557] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "f1191ec8-94d3-4ef8-9ccf-1fba95027629",
+        "riverId": "big-river",
+        "type": "public-access",
+        "mile": 20,
+        "description": "Washington State Park Access (MDNR State Parks) and on left.  Park is noted for its Indian petroglypys, about 0.5 mile up road on the left near campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.681476, 38.086841] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "33b91178-2f98-49f1-86a6-8a9f39b7bd21",
+        "riverId": "big-river",
+        "type": "private-access",
+        "mile": 20.7,
+        "description": "Big River Heights Road Bridge, northeast of state park boundary.  Private access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.682531, 38.091446] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "83029988-8526-49a2-86f8-27571afed1a2",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 21.8,
+        "description": "Mineral Fork, on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.680391, 38.101605] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0f2f613c-346f-4b78-837a-0561d90254ce",
+        "riverId": "big-river",
+        "type": "public-access",
+        "mile": 23.3,
+        "description": "Mammoth Access on left.  Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.675446, 38.121984] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d946d387-4212-4800-80ff-b6bb6bc113a6",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 28.5,
+        "description": "Old Hwy. H Bridge.  No Access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.704029, 38.159998] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "19bcac82-551d-4f9d-8e49-8cb22199ae83",
+        "riverId": "big-river",
+        "type": "public-access",
+        "mile": 28.7,
+        "description": "New Hwy. H Bridge.  Merrill Horse Access on left.",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.708079, 38.161918] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2ed349f0-e561-413b-8674-c0240dd4bbb5",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 30.7,
+        "description": "Calico Creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.718828, 38.177591] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "f0f33b5b-8c22-4e48-95f5-ba26091e3aec",
+        "riverId": "big-river",
+        "type": "public-access",
+        "mile": 34,
+        "description": "Brown's Ford Bridge.  Brown's Ford Access on left.",
+        "hasRamp": true,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.706176, 38.211271] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "eda9e118-f4e2-45e8-96d6-b8b1eeaff43c",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 38.6,
+        "description": "Engleford Road.  No public access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.73697, 38.231099] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e8a71242-39c7-48eb-91ca-85e5bfa7505b",
+        "riverId": "big-river",
+        "type": "private-access",
+        "mile": 43.4,
+        "description": "Private access and campground.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.712607, 38.240631] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "43f672ff-224a-425c-91d2-d638473ff3c0",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 45,
+        "description": "Pine Ford (Hwy. Y) Bridge. No access.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.684651, 38.23438] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "90c36660-10bb-47c0-b222-95aae33eeed7",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 50.7,
+        "description": "Dry Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.669064, 38.270595] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c84ab232-6310-4c81-b12e-eb5fdd0af014",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 52.3,
+        "description": "Ball Memorial Park on left upstream of bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.65262, 38.274921] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fe25fd85-28cc-4f01-aa07-84d0c4843a8b",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 52.4,
+        "description": "Morse Mill Dam. Portage right.  Break in dam at left near foundation of old mill is danagerous but a concrete sluice just right of this may be used to slide canoes down when the water is low enough to stand on the dam.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.649392, 38.275776] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "73a102b0-032b-4cb9-9348-67e52399fbdd",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 52.5,
+        "description": "Hwy. B Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.648743, 38.275853] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bec72cd7-384b-4e17-84d0-6c8f61b39da2",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 54,
+        "description": "Cabins on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.638086, 38.2847] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "14f40f1c-f61f-4d97-851f-04cfae8e0bad",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 55,
+        "description": "Klondike Road Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.632276, 38.296377] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "41d7f9bb-f8b4-4320-870d-0303a92144e1",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 55.7,
+        "description": "Jones Creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.638747, 38.305092] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "20a3a201-bb5d-4dcf-a341-ef0a5a63e254",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 62.4,
+        "description": "Hwy. BB along river on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.626834, 38.346701] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fa223b2a-d4da-4cca-8862-1b57c1be2e69",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 63.2,
+        "description": "Cedar Hill Bridge and mill dam.  Portage left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.643697, 38.349115] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c60195b2-5811-42ce-b759-e9aaf8c9bce3",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 63.5,
+        "description": "Hwy. 30 Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.649569, 38.348232] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c547e854-9e54-499f-8390-b8879ef27ee4",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 68.9,
+        "description": "Private dam.  Portage right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.639535, 38.391048] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "52fc2ab1-f81f-4842-ae7a-62c231ef081f",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 69,
+        "description": "Byrnesville Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.636839, 38.392546] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "b07b3777-8428-4c7b-b21f-93305d32a1a0",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 73,
+        "description": "Hwy. W. Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.589684, 38.420186] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "249091e8-dd1f-43e4-9f68-476455c743e0",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 74.6,
+        "description": "Byrnes Mill Dam. Portage right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.588495, 38.422193] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "462a10ff-23fa-4998-9295-594a638733b5",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 80.9,
+        "description": "Town of Hoene Spring on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.597784, 38.446666] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6e302710-2108-44f1-9bd3-089e54e3309e",
+        "riverId": "big-river",
+        "type": "private-access",
+        "mile": 82.8,
+        "description": "Twin River Bridge.  Private access on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.622075, 38.469421] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "a5fd8120-08e4-42c2-bf97-498a0e07315b",
+        "riverId": "big-river",
+        "type": "landmark",
+        "mile": 83.2,
+        "description": "Meramec River",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.616119, 38.473593] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2bfc7a4b-559a-4e13-adb6-331776f52894",
+        "riverId": "mineral-creek",
+        "type": "private-access",
+        "mile": 0,
+        "description": "Hwy. F Bridge.  Private land.  Parking difficult.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.8331, 38.042357] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8e1c90d5-ad84-4cef-9c2e-35194f80bd1b",
+        "riverId": "mineral-creek",
+        "type": "land",
+        "mile": 3,
+        "description": "Arnault Creek on right.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.81337, 38.055257] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d335bed1-e766-4e89-b846-651f5dcf6f6c",
+        "riverId": "mineral-creek",
+        "type": "land",
+        "mile": 6.2,
+        "description": "Sycamore Creek on left.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.775194, 38.085434] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "63c057cf-ce84-450d-9f0b-2df8d6eebb63",
+        "riverId": "mineral-creek",
+        "type": "private-access",
+        "mile": 8.7,
+        "description": "Site of old Hwy. 47 Bridge.  Private access and camping.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.752052, 38.091599] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "a5b570ec-a69d-4e01-9bc2-0be2db68fe85",
+        "riverId": "mineral-creek",
+        "type": "private-access",
+        "mile": 10.2,
+        "description": "Private slab bridge across creek.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.721467, 38.089639] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9a3c6ded-d53a-46ad-9724-c75dd3d7f11c",
+        "riverId": "mineral-creek",
+        "type": "public-access",
+        "mile": 11,
+        "description": "Kingston Access on Right.  No ramp.  Walk down trail to gravel bar.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.709031, 38.095215] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5bed20d3-69e1-40f5-9f61-cd4b96ed238b",
+        "riverId": "mineral-creek",
+        "type": "public-access",
+        "mile": 13.8,
+        "description": "Big River.  Private camp at confluence.  Next access at Mammoth Bridge.",
+        "hasRamp": false,
+        "campingAllowed": false
+      },
+      "geometry": { "type": "Point", "coordinates": [-90.680391, 38.101605] }
+    }
+  ]
+}
